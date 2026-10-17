@@ -26,7 +26,7 @@ Each prompt asks for a specific shape of answer: who it's for, which sections to
 
 ## Reuse them without copy-pasting
 
-These prompts ship as built-in templates in **[Qarta](https://chromewebstore.google.com/detail/qarta-prompt-library-ai-c/pbnjcimookgjappnnlfknfoepfhgepng?utm_source=github&utm_medium=repo&utm_campaign=prompts)**, a Chrome extension that saves your prompts and inserts them into ChatGPT, Gemini, Claude, Copilot, Perplexity or Grok when you type `/` and a keyword. Free, no account, and your chats never leave your computer. Browse them on the web at https://repech.com/qarta/prompts/en .
+These prompts ship as built-in templates in **[Qarta](https://chromewebstore.google.com/detail/qarta-prompt-library-ai-c/pbnjcimookgjappnnlfknfoepfhgepng?utm_source=github&utm_medium=repo&utm_campaign=prompts)**, an all-in-one Chrome extension for AI chats: save your go-to instructions and bring them back in ChatGPT, Gemini, Claude, Copilot, Perplexity or Grok by typing `/` and a keyword. It also keeps every AI chat searchable and exports chats to PDF or Word. Browse them on the web at https://repech.com/qarta/prompts/en .
 
 Made by [REPECH](https://repech.com).
 
