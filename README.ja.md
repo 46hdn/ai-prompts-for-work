@@ -26,7 +26,7 @@
 
 ## 毎回コピーするのが面倒になったら
 
-これらのプロンプトは、Chrome拡張機能 **[Qarta（カルタ）](https://chromewebstore.google.com/detail/qarta-prompt-library-ai-c/pbnjcimookgjappnnlfknfoepfhgepng?utm_source=github&utm_medium=repo&utm_campaign=prompts)** にひな形として入っています。AIのチャット欄で `/` とキーワードを打つだけで呼び出せます。無料・登録不要で、会話はどこにも送りません。ウェブ版：https://repech.com/qarta/prompts
+これらのプロンプトは、Chrome拡張機能 **[Qarta（カルタ）](https://chromewebstore.google.com/detail/qarta-prompt-library-ai-c/pbnjcimookgjappnnlfknfoepfhgepng?utm_source=github&utm_medium=repo&utm_campaign=prompts)** にひな形として入っています。Qartaは、いつもの指示を、どのAIでも一瞬で呼び出せるChrome拡張機能です（チャット欄で `/` とキーワード）。6つのAIとの会話の保存・検索・PDFやWordへの書き出しも、これ1つでできます。ウェブ版：https://repech.com/qarta/prompts
 
 作成：[REPECH](https://repech.com)
 
